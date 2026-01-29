@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="FileRead">
+      <HintPath>H:\25-26_aszaf\FileRead\FileRead\bin\Debug\net8.0\FileRead.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
