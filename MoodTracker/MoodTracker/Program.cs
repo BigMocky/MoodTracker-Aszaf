@@ -14,8 +14,11 @@ internal class Program
         AdatBeolvasas("moodtracker.sql", 4, ';', false);
         AdatBetoltes(moodok);
         AdatDatabasebeIras();
-    }
 
+        Console.WriteLine("=======MoodTracker=======");
+        Console.WriteLine("1 - Új hangulat rögzítése!");
+    }
+    
     private static void AdatDatabasebeIras()
     {
         /*

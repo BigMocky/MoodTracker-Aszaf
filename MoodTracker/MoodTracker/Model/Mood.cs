@@ -8,5 +8,6 @@ namespace MoodTracker.Model
 {
     internal class Mood
     {
+
     }
 }
