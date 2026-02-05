@@ -15,8 +15,12 @@ internal class Program
         AdatBetoltes(moodok);
         AdatDatabasebeIras();
 
-        Console.WriteLine("=======MoodTracker=======");
+        Console.WriteLine("========MoodTracker========");
         Console.WriteLine("1 - Új hangulat rögzítése!");
+        Console.WriteLine("2 - Előzmények megtekintése.");
+        Console.WriteLine("3 - Átlag.");
+        Console.WriteLine("0 - Kilépés!");
+
     }
     
     private static void AdatDatabasebeIras()
