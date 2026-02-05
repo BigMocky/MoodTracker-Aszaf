@@ -6,8 +6,8 @@ internal class Program
 {
     private static List<List<string>> moodok = new List<List<string>>();
     private static List<Database> database = new List<Database>();
-    private static FileRead.ReadFromFile reader = new FileRead.ReadFromFile();
-//    private static FileRead.WriteToFile writer = new FileRead.WriteToFile();
+    private static FileIO.ReadFromFile reader = new FileIO.ReadFromFile();
+    private static FileIO.WriteToFile writer = new FileIO.WriteToFile();
 
     private static void Main(string[] args)
     {
@@ -25,7 +25,7 @@ internal class Program
     
     private static void AdatDatabasebeIras()
     {
-        /*
+        
                List<string> fileData = new List<string>();
                foreach (var item in moodok)
                {
@@ -43,8 +43,8 @@ internal class Program
                {
 
                    throw;
-               }
-        */
+              }
+        
     }
 
     private static void AdatBetoltes(List<List<string>> moodok)
