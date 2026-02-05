@@ -25,7 +25,7 @@ internal class Program
     
     private static void AdatDatabasebeIras()
     {
-        
+        /*
                List<string> fileData = new List<string>();
                foreach (var item in moodok)
                {
@@ -44,7 +44,7 @@ internal class Program
 
                    throw;
               }
-        
+        */
     }
 
     private static void AdatBetoltes(List<List<string>> moodok)

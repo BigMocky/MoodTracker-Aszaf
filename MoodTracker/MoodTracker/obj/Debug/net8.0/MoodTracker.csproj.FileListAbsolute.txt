@@ -3,8 +3,6 @@ D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\bin\Debug\net8.0\MoodTracker.deps.j
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\bin\Debug\net8.0\MoodTracker.runtimeconfig.json
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\bin\Debug\net8.0\MoodTracker.dll
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\bin\Debug\net8.0\MoodTracker.pdb
-D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\bin\Debug\net8.0\FileRead.dll
-D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\bin\Debug\net8.0\FileRead.pdb
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\obj\Debug\net8.0\MoodTracker.csproj.AssemblyReference.cache
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\obj\Debug\net8.0\MoodTracker.GeneratedMSBuildEditorConfig.editorconfig
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\obj\Debug\net8.0\MoodTracker.AssemblyInfoInputs.cache
@@ -17,3 +15,4 @@ D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\obj\Debug\net8.0\refint\MoodTracker
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\obj\Debug\net8.0\MoodTracker.pdb
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\obj\Debug\net8.0\MoodTracker.genruntimeconfig.cache
 D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\obj\Debug\net8.0\ref\MoodTracker.dll
+D:\MoodTracker-Aszaf\MoodTracker\MoodTracker\bin\Debug\net8.0\FileIO.dll

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2026. Jan 26. 13:23
+-- Létrehozás ideje: 2026. Feb 05. 12:24
 -- Kiszolgáló verziója: 10.4.32-MariaDB
 -- PHP verzió: 8.2.12
 
@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Adatbázis: `moodtracker`
 --
+CREATE DATABASE IF NOT EXISTS `moodtracker` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_hungarian_ci;
+USE `moodtracker`;
 
 -- --------------------------------------------------------
 
