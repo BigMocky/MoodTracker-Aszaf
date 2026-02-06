@@ -45,12 +45,12 @@ internal class Program
 
     private static void Atlag()
     {
-        
+        Console.WriteLine("nayud");
     }
 
     private static void Elozmenyek()
     {
-        
+        Console.WriteLine("apud");
     }
 
     private static void MelyikFunkcio()
