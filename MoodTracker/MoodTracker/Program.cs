@@ -18,11 +18,12 @@ internal class Program
         Console.WriteLine("3 - Átlag.");
         Console.WriteLine("0 - Kilépés!");
 
+
         AdatBeolvasas("moodtracker.sql", 4, ';', false);
         AdatBetoltes(moodok);
         
-        Console.ReadLine();
         MelyikFunkcio();
+        Console.ReadLine();
 
         AdatDatabasebeIras();
 
@@ -30,6 +31,21 @@ internal class Program
         Console.ReadLine();
 
         Elozmenyek();
+
+        MelyikFunkcio();
+        Console.ReadLine();
+
+        Atlag();
+
+        MelyikFunkcio();
+        Console.ReadLine();
+
+
+    }
+
+    private static void Atlag()
+    {
+        
     }
 
     private static void Elozmenyek()
