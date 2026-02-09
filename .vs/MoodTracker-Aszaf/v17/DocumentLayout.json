@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MoodTracker-Aszaf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoodTracker\\MoodTracker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\MoodEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoodTracker\\MoodTracker\\Model\\MoodEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\Mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoodTracker\\MoodTracker\\Model\\Mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoodTracker\\MoodTracker\\Model\\Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoodEntry.cs",
+              "DocumentMoniker": "D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\MoodEntry.cs",
+              "RelativeDocumentMoniker": "MoodTracker\\MoodTracker\\Model\\MoodEntry.cs",
+              "ToolTip": "D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\MoodEntry.cs",
+              "RelativeToolTip": "MoodTracker\\MoodTracker\\Model\\MoodEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:07:05.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\Database.cs",
+              "RelativeDocumentMoniker": "MoodTracker\\MoodTracker\\Model\\Database.cs",
+              "ToolTip": "D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\Database.cs",
+              "RelativeToolTip": "MoodTracker\\MoodTracker\\Model\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:02:55.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Program.cs",
+              "RelativeDocumentMoniker": "MoodTracker\\MoodTracker\\Program.cs",
+              "ToolTip": "D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Program.cs",
+              "RelativeToolTip": "MoodTracker\\MoodTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:02:00.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mood.cs",
+              "DocumentMoniker": "D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\Mood.cs",
+              "RelativeDocumentMoniker": "MoodTracker\\MoodTracker\\Model\\Mood.cs",
+              "ToolTip": "D:\\MoodTracker-Aszaf\\MoodTracker\\MoodTracker\\Model\\Mood.cs",
+              "RelativeToolTip": "MoodTracker\\MoodTracker\\Model\\Mood.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAANcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T12:00:18.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

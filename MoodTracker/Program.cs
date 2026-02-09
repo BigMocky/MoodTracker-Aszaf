@@ -29,7 +29,7 @@ namespace MoodTracker
             SaveToCsv(CsvPath, moods);
 
             // Fő programciklus
-            while (true) 
+            while (true) // while kötelező elem
             {
                 DrawHeader("==== MoodTracker ====");
                 Console.WriteLine("1 - Új hangulat rögzítése (CSV + DB)");
@@ -42,7 +42,7 @@ namespace MoodTracker
                 string choice = Console.ReadLine() ?? "";
                 Console.WriteLine();
 
-                switch (choice) // switch-case
+                switch (choice) // switch-case kötelező elem
                 {
                     case "1":
                         AddMoodFlow(moods, db);
@@ -149,7 +149,7 @@ namespace MoodTracker
                 {
                     Info($"Találat: {daily.Count} db");
                     PrintTableHeader();
-                    for (int i = 0; i < daily.Count; i++) // for ciklus
+                    for (int i = 0; i < daily.Count; i++) // for ciklus kötelező elem
                         PrintRow(daily[i]);
                     PrintTableFooter();
                 }
@@ -379,7 +379,7 @@ namespace MoodTracker
 
         private static string GetRandomMessage(int moodLevel)
         {
-            
+            // ternary operátor is szerepel a programban, itt is megmaradhat
             string tone = moodLevel >= 4 ? "pozitív" : (moodLevel >= 3 ? "semleges" : "támogató");
 
             string[] positive =
