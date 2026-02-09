@@ -32,3 +32,4 @@ namespace MoodTracker.Model
         public string Motivation { get => _Motivation; set => _Motivation = value; }
     }
 }
+
